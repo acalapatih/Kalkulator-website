@@ -86,7 +86,7 @@ clearAll = () => {
 const decimal = document.querySelector('.decimal');
 
 decimal.addEventListener('click', (event) => {
-    inputDecimal(event.number.value);
+    inputDecimal(event.target.value);
     updateScreen(currentNumber);
 });
 
