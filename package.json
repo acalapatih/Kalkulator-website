@@ -1,0 +1,23 @@
+{
+  "name": "kalkulatorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amir-ace/kalkulatorJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amir-ace/kalkulatorJs/issues"
+  },
+  "homepage": "https://github.com/amir-ace/kalkulatorJs#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
